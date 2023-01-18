@@ -24,4 +24,4 @@ This is a simple weather app that allows users to enter a location and view the 
 If you wish to contribute to this project, feel free to open a pull request with your proposed changes.
 
 ## Contact
-If you have any questions or issues, please reach out to me on [Twitter](https://twitter.com/@paluzdev) or [LinkedIn](https://www.linkedin.com/in/paluzz/).
+If you have any questions or issues, please reach out to me on [Twitter](https://twitter.com/paluzdev) or [LinkedIn](https://www.linkedin.com/in/paluzz/).
