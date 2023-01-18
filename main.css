@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  form {
+    margin: 20px 0;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  #weather-data {
+    font-size: 1.2em;
+    margin: 20px 0;
+  }
+  
+  #weather-icon {
+    width: 100px;
+    margin: 20px auto;
+  }
+  
+  #error-message {
+    color: red;
+    font-weight: bold;
+  }
+  
